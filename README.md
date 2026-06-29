@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="kensho" width="880"></p>
+
 # HiDream-I1
 
 ![HiDream-I1 Demo](assets/demo.jpg)
