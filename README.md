@@ -2,7 +2,6 @@
 
 # HiDream-I1
 
-> Forked from [HiDream-ai/HiDream-I1](https://github.com/HiDream-ai/HiDream-I1) (MIT).
 
 ![HiDream-I1 Demo](assets/demo.jpg)
 
